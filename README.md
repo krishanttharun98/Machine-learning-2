@@ -1,7 +1,7 @@
 # Machine-learning-2
 # Brain-Tumor-Detection Using CNN (Convolutional Neural Network) Machine learning implemented in a Robot
 
-With help of a brain MRI images data data set founded on Kaggle which can be found [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).
+With help of a brain MRI images data set founded on Kaggle which can be found [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).
 
 The data set consists of 155 tumorous brain scans and 98 non-tumorous brain scans.
 
@@ -21,3 +21,7 @@ CNN - Convolutional Neural Network (CNN) is the deep learning technique to perfo
 # Result:
 With an Validation accuracy of 91% and text accuracy of 89%, we have made a possible aprroach on how to implement this on a pepper robot, which would be very useful in the medical for the doctors and technicians. 
 
+# Project done By
+Nirmal Kumar - S5168055
+Krishant Tharun - S5168143
+Shahrzad Eskandari Majdar - S5060737
